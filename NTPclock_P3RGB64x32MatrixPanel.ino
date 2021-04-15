@@ -14,8 +14,8 @@ P3RGB64x32MatrixPanel matrix;
 // these pins are an example, you may modify this according to your needs
 //P3RGB64x32MatrixPanel matrix(25, 26, 27, 21, 22, 23, 15, 32, 33, 12, 16, 17, 18);
 
-char ssid[] = "bbk2";
-char pass[] = "internet2";
+char ssid[] = "ssid name";
+char pass[] = "ssid pasword";
 
 #define TZ (3*60*60) /"UTC+3*/
 
