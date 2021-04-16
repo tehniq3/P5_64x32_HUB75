@@ -335,7 +335,7 @@ void setup()
 }
 
 //open weather map api key 
-String apiKey   = "ca55295c4a1dce2688e0751d4b9a68de"; //e.g a hex string like "abcdef0123456789abcdef0123456789"
+String apiKey   = "0bererecelabaiatu!"; //e.g a hex string like "abcdef0123456789abcdef0123456789"
 //the city you want the weather for 
 String location = "Craiova,RO"; //e.g. "Paris,FR"
 char server[]   = "api.openweathermap.org";
