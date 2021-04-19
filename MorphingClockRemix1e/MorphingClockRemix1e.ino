@@ -13,6 +13,7 @@ other remix by niq_ro
  * ver.1.c - remove date and move temperature (actual, minimum, maximum) under clock, change other few letters
  * ver.1.d - move all info numerical value under clock (alternatively show), remain upper just icons, removed fireworks part
  * ver.1.e - added permannent type of wheater as text (icons or animation as options)
+ * ver.1.e.2 - added colours at digits and description of weather
 */
 
 #include <TimeLib.h>
