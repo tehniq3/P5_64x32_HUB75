@@ -76,8 +76,8 @@ PxMATRIX display(64, 32, P_LAT, P_OE, P_A, P_B, P_C, P_D, P_E);
 
 //=== SEGMENTS ===
 int cin = 25; //color intensity
-int cinmin = 25;
-int cinmax = 30; //150;
+int cinmin = 25;  // night
+int cinmax = 150; // day  
 #include "Digit.h"
 Digit digit0(&display, 0, 63 - 1 - 9*1, 8, display.color565(0, 0, 255));
 Digit digit1(&display, 0, 63 - 1 - 9*2, 8, display.color565(0, 0, 255));
