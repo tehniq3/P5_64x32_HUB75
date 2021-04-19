@@ -16,4 +16,4 @@ Base articles for Morphing Clocl and remix are: https://www.instructables.com/Mo
 ![conectare intre mufr](https://1.bp.blogspot.com/-htqiYJbHgug/YHnSgUdvGWI/AAAAAAAAeDs/jdbxh4oNMxMHfBK9AtKjuLZGdyxdpI95QCLcBGAsYHQ/s447/conectare2.png)
 ![schema](https://1.bp.blogspot.com/-dN2MCk0BKxk/YHnNzxbvMtI/AAAAAAAAeDc/YoOCBBORPs0HQ9fQJ9JbnCY2g8VPQ7-nACLcBGAsYHQ/s986/hackster_io_esp8266_Pxmatrix.jpg)
 
-![ro](https://1.bp.blogspot.com/-abmmMYvoce0/YH0j4taKRdI/AAAAAAAAeG8/KEdCtshUdJMBRblue1ew0biCtYgg7xDHQCLcBGAsYHQ/s2048/ro2.jpg)
+![ro](https://1.bp.blogspot.com/-bC0hNLHK800/YH07B8S0H6I/AAAAAAAAeH4/Se3tmDImL0Ei63hAX-wRB94X2ekpFenGwCLcBGAsYHQ/s2048/ro2_pres.jpg)
