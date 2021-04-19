@@ -1,7 +1,5 @@
 # P5_64x32_HUB75
-<div class="text-red mb-2">
-  .text-red on white
-</div>
+
 # ESP32-P3RGB64x32MatrixPanel library
 it uses library from https://github.com/NeoCat/ESP32-P3RGB64x32MatrixPanel
 
