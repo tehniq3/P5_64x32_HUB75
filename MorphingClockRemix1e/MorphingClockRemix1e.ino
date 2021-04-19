@@ -1020,6 +1020,12 @@ void loop()
     //we had a sync so draw without morphing
     int cc_gry = display.color565 (128, 128, 128);
     int cc_dgr = display.color565 (30, 30, 30);
+    int cc_wht = display.color565 (cin, cin, cin);
+    int cc_red = display.color565 (cin, 0, 0);
+    int cc_grn = display.color565 (0, cin, 0);
+    int cc_blu = display.color565 (0, 0, cin);
+    int cc_ylw = display.color565 (cin, cin, 0);
+    int cc_cer = display.color565 (cin, 0, cin);
     //dark blue is little visible on a dimmed screen
     //int cc_blu = display.color565 (0, 0, cin);
     int cc_col = cc_gry;
@@ -1027,12 +1033,20 @@ void loop()
     if (cin == cinmin)
       cc_col = cc_dgr;
     //reset digits color
+    /*
     digit0.SetColor (cc_col);
     digit1.SetColor (cc_col);
     digit2.SetColor (cc_col);
     digit3.SetColor (cc_col);
     digit4.SetColor (cc_col);
     digit5.SetColor (cc_col);
+    */
+    digit0.SetColor (cc_blu);
+    digit1.SetColor (cc_blu);
+    digit2.SetColor (cc_ylw);
+    digit3.SetColor (cc_ylw);
+    digit4.SetColor (cc_red);
+    digit5.SetColor (cc_red);
     //clear screen
     display.fillScreen (0);
     //date and weather
