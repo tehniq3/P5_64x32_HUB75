@@ -1102,6 +1102,7 @@ byte prevhh = 0;
 byte prevmm = 0;
 byte prevss = 0;
 long tnow;
+unsigned long tpceas = 0;
 
 void loop()
 {
@@ -1110,12 +1111,15 @@ void loop()
   static int cm;
   //time changes every miliseconds, we only want to draw when digits actually change
 
+if ((millis() - tpceas > 1000) or (yy == 1970))
+{
 timeClient.update();
 hh = timeClient.getHours();
 mm = timeClient.getMinutes();
 ss = timeClient.getSeconds();
 zi = timeClient.getDay();
-
+tpceas = millis();
+}
 
   //animations?
   cm = millis ();
