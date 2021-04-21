@@ -1526,8 +1526,8 @@ xo = 0;
   if (zi == 4)
      lstr = lstr + "   Thursday    ";
   if (zi == 5)
-     lstr = lstr + "   Saturday    ";
+     lstr = lstr + "    Friday     ";
   if (zi == 6)
-     lstr = lstr + "    Sunday     ";
+     lstr = lstr + "   Saturday    ";
 TFDrawText (&display, lstr, xo, yo, cc_ylw);    
 }
