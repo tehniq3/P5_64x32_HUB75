@@ -936,7 +936,7 @@ if ((condid >= 500) and (condid <= 531)) lstr = "Rain        "; //"ploaie, ";
 if ((condid >= 600) and (condid <= 622)) lstr = "Snow        "; //"ninsoare, ";
 if ((condid >= 701) and (condid <= 781)) lstr = "Dust/Fog    "; //"praf/ceata, ";
 if (condid == 800)                       lstr = "Clear sky   "; //"cer senin ";
-if ((condid >= 801) and (condid <= 804)) lstr = "  Clouds:   "; //"innorat, ";
+if ((condid >= 801) and (condid <= 804)) lstr = " Clouds:    "; //"innorat, ";
 }
 else
 {
@@ -946,7 +946,7 @@ if ((condid >= 500) and (condid <= 531)) lstr = "Ploaie      "; //"ploaie, ";
 if ((condid >= 600) and (condid <= 622)) lstr = "Ninsoare    "; //"ninsoare, ";
 if ((condid >= 701) and (condid <= 781)) lstr = "Praf/ceata  "; //"praf/ceata, ";
 if (condid == 800)                       lstr = "Cer senin   "; //"cer senin ";
-if ((condid >= 801) and (condid <= 804)) lstr = "  Innorat:  "; //"innorat, ";
+if ((condid >= 801) and (condid <= 804)) lstr = "Innorat:    "; //"innorat, ";
 }
 
 lstr.toUpperCase ();
