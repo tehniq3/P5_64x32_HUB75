@@ -5,7 +5,7 @@ it uses library from https://github.com/NeoCat/ESP32-P3RGB64x32MatrixPanel
 
 my articles:
 
-1)https://nicuflorica.blogspot.com/2021/04/control-afisaj-p5-rgb-64x32-cu-esp32.html
+1) https://nicuflorica.blogspot.com/2021/04/control-afisaj-p5-rgb-64x32-cu-esp32.html
 
 2) https://nicuflorica.blogspot.com/2021/04/ceas-ntp-cu-tranzitii-animate-si-date_18.html
 
