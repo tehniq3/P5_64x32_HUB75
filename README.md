@@ -13,6 +13,31 @@ my article: https://nicuflorica.blogspot.com/2021/04/control-afisaj-p5-rgb-64x32
 for Morphing Clock it uses library from https://github.com/2dom/PxMatrix.
 Base articles for Morphing Clocl and remix are: https://www.instructables.com/Morphing-Digital-Clock/ and https://github.com/lmirel/MorphingClockRemix
 
+# History of Morphing Clock
+remix from HarryFun's great Morphing Digital Clock idea https://github.com/hwiguna/HariFun_166_Morphing_Clock
+follow the great tutorial there and eventually use this condide as alternative
+
+provided 'AS IS', use at your own risk
+ * mirel.t.lazar@gmail.com
+
+other remix by niq_ro -  nicu.florica@gmail.com
+ * ver.1,0 - presure in mmHg instead mPa
+ * ver.1.a - added "C" at every temperature, shortet date format (year as 21 instead 2021), presure or umidity (at 3 sec) in upper right corner
+ * ver.1.b - change presure format (762Hg instead 762P), change few letters
+ * ver.1.c - remove date and move temperature (actual, minimum, maximum) under clock, change other few letters
+ * ver.1.d - move all info numerical value under clock (alternatively show), remain upper just icons, removed fireworks part
+ * ver.1.e - added permannent type of wheater as text (icons or animation as options)
+ * ver.1.e.2 - added colours at digits and description of weather
+ * ver.1.f - extract more info from openweathermap data (wind, clouds percent)
+ * ver.1.g - changed NtpClientLib.h with NtpClient.h for extract easy day of week
+ * ver.1.h - added romanian language for description, clear zone display when openweathermap not send any data or APIkey is wrong, remain just data or name of day week
+ * ver.1.h2 - small correcionfor clear zone :)
+ * ver.1.i - changed animated icon from https://github.com/cybr1d-cybr1d/MorphingClockRemix
+ * ver.1.j - clear seconds zone when weather data is uploaded (fill will "search info" text)
+
+
+
+
 my articles:
 
 1) https://nicuflorica.blogspot.com/2021/04/ceas-ntp-cu-tranzitii-animate-si-date.html 
