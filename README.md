@@ -34,8 +34,9 @@ other remix by niq_ro -  nicu.florica@gmail.com
  * ver.1.h2 - small correcionfor clear zone :)
  * ver.1.i - changed animated icon from https://github.com/cybr1d-cybr1d/MorphingClockRemix
  * ver.1.j - clear seconds zone when weather data is uploaded (fill will "search info" text)
-
-
+ * ver.1.k - niq_ro changed moon simbol
+ * ver.1k1 - small corrections (thunderstorm)
+ * ver.1.l - added OTA
 
 
 my articles:
