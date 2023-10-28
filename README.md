@@ -8,6 +8,8 @@ my article: https://nicuflorica.blogspot.com/2021/04/control-afisaj-p5-rgb-64x32
 ![connexion](https://1.bp.blogspot.com/-_x3VH5FDTMM/YHlVcnGbcJI/AAAAAAAAeBE/FbI4rVPg4yESJSOlk31Z4APjOXTYcmkTwCLcBGAsYHQ/s830/P5%2BHUB75%2BESP32%2Bconnexion.png)
 ![real1](https://1.bp.blogspot.com/-X-SmK9OkMO0/YHlXrC8Y-GI/AAAAAAAAeBs/7tZO9d3uG_UYRrqSnLLot2HxBtyr5pTmgCLcBGAsYHQ/s3214/P3ESP32_00.jpg)
 
+![libraries an versions](https://1.bp.blogspot.com/-u6Qp0PKbPhE/YHnLb9GaTsI/AAAAAAAAeDU/tk4ulwI6FNYyxRWJ97dS3LWx0yRiSJZpACLcBGAsYHQ/s940/2021-04-15%2B19_19_25-Black%2Bscreen%2Bafter%2Buploading%252C%2Bbut%2Bif%2Bwifi%2Bworks%2B%25C2%25B7%2BIssue%2B%252311%2B%25C2%25B7%2Bhwiguna_HariFun_16.png)
+
 # Morphing Clock (other remix) - PxMatrix library
 
 for Morphing Clock it uses library from https://github.com/2dom/PxMatrix.
