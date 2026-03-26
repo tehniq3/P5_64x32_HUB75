@@ -55,7 +55,9 @@ my articles:
 ![conectare](https://1.bp.blogspot.com/-XowZaSfd55E/YHnSY1H0LqI/AAAAAAAAeDk/sqjIFrFAd5gS3JL8qjwY09YuEWbRgIkmgCLcBGAsYHQ/s1024/conectare0.png)
 ![conectare la ESP8266](https://1.bp.blogspot.com/-_4o7B_rbtP4/YHnScQrwKZI/AAAAAAAAeDo/FMdDrYIbP78g9SGeZZZ-XQF5hvi1KyQJACLcBGAsYHQ/s928/conectare1.png)
 ![conectare intre mufr](https://1.bp.blogspot.com/-htqiYJbHgug/YHnSgUdvGWI/AAAAAAAAeDs/jdbxh4oNMxMHfBK9AtKjuLZGdyxdpI95QCLcBGAsYHQ/s447/conectare2.png)
+
 ![schema](https://1.bp.blogspot.com/-dN2MCk0BKxk/YHnNzxbvMtI/AAAAAAAAeDc/YoOCBBORPs0HQ9fQJ9JbnCY2g8VPQ7-nACLcBGAsYHQ/s986/hackster_io_esp8266_Pxmatrix.jpg)
+![schema_faraGPI0](https://blogger.googleusercontent.com/img/a/AVvXsEg_t0bRiULGR1e1vRvuZUeo0Z1NmJ7mmPbkMwFglU3lN88XsmZ48ntaGztgJ25FcDjAGR9zdDNmhoGXXjXvW0DhNpLxPlw8fTx36MomSeYYVoTSnYWwh1HvNDwnK0baad0DJ0AUA2aRZZA_MuRXIaFFV0D4gy8b6E_n8qgnHr64i1C1RdkgSeBr379Gm_B4)
 
 ![ro0](https://1.bp.blogspot.com/-yR34oNw6ThA/YH062-GiapI/AAAAAAAAeHs/yRRg0iC9xVMGCs9Hnkc29qLq85W5g1aEwCLcBGAsYHQ/s2048/ro2_temp.jpg)
 ![ro](https://1.bp.blogspot.com/-bC0hNLHK800/YH07B8S0H6I/AAAAAAAAeH4/Se3tmDImL0Ei63hAX-wRB94X2ekpFenGwCLcBGAsYHQ/s2048/ro2_pres.jpg)
